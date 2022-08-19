@@ -27,6 +27,7 @@
 
 ## 日报/资料库
 - 欢迎加入 SCMONUY！您可以访问 http://192.168.200.170:5000/, http://songcw.synology.me:5000/ 以更改个人资料。如果您无法连接到服务器，请联系管理员。
+- 日报：http://192.168.200.170:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=670126708373893606
 - 颂车前端：http://192.168.200.170:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=670652361254944144
 - 您的用户名：曹强
 - 您的密码：(vYzr}
@@ -61,3 +62,9 @@
 - 仓库：https://git.dingdangdata.com/dingdang-bp-platform/front-end/dingdang-bp-platform
 - 测试：http://boss.bp.sit.dingdangdata.com/login
 - 账号：admin        admin123
+- 收银台仓库：http://git.dingdangdata.com/dingdang-bp-platform/front-end/dingdang-bp-cashier.git
+- 收银台测试：http://pay.sit.dingdangchewu.com/cashier/payment?id=LP1560533205013168130
+
+### 识客码
+- 仓库：http://git.dingdangdata.com/dingdang-recognize-code/front-end/sc-identific-code.git
+- 参考案例：http://mp.weiliebian.cc/w/0/corp/corpClientLink/form/
