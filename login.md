@@ -13,6 +13,10 @@
 - https://git.dingdangdata.com/users/sign_in
 - cq872286926@163.com/Sooncw2022
 
+## jenkins
+- http://jenkins.songchejr.com/
+- admin songche@test
+
 ## 禅道
 - http://zentao.dingdangdata.com/zentao/my/
 - caoqiang/SCW@123456
@@ -67,4 +71,6 @@
 
 ### 识客码
 - 仓库：http://git.dingdangdata.com/dingdang-recognize-code/front-end/sc-identific-code.git
+- 测试：http://192.168.100.4:8088/dev/customerManage
 - 参考案例：http://mp.weiliebian.cc/w/0/corp/corpClientLink/form/
+- mp.weiliebian.cc / 18621159896 / TWq1w2e3r4
