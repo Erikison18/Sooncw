@@ -6,6 +6,10 @@
 - http://mail.songcw.com/
 - caoqiang@songcw.com/Songche@2022/Sooncw2022/Sooncw2023
 
+## npm
+- https://www.npmjs.com/settings/erikison/packages
+- erikison/cqcq19921206/cq872286926@163.com
+
 ## git
 - https://git.songcw.com/users/sign_in
 - caoqiang@songcw.com/Sooncw2022
@@ -74,3 +78,8 @@
 - 测试：http://192.168.100.4:8088/dev/customerManage
 - 参考案例：http://mp.weiliebian.cc/w/0/corp/corpClientLink/form/
 - mp.weiliebian.cc / 18621159896 / TWq1w2e3r4
+
+## 车务
+- 仓库：http://git.dingdangdata.com/dingdang_front_end/dingdangchewu_boss.git
+- app下载：https://www.pgyer.com/UerO?from_wecom=1
+- 登录账号 15922900361 验证码是 当前的小时分钟，例如15:37
