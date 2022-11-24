@@ -88,3 +88,6 @@
 - 之前餐饮云的测试地址：http://cy.sit.dingdangdata.com/login  
 - 账号：admin   密码：admin123
 - 蓝湖：https://share.lanhuapp.com/#/invite?sid=lXre71Ra
+- 测试sit：http://cy.sit.dingdangdata.com/diningTable/diningTable-home
+- 正式：https://cy.dingdangdata.com/diningTable/diningTable-home
+- 正式环境   收银台账号：渝中收银   abc123
