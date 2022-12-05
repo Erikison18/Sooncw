@@ -23,6 +23,7 @@
 
 ## 禅道
 - http://zentao.dingdangdata.com/zentao/my/
+- http://zentao.songcw.com/zentao/my/
 - caoqiang/SCW@123456
 
 ## 蓝湖团队
@@ -87,6 +88,7 @@
 ## 餐饮项目
 - 之前餐饮云的测试地址：http://cy.sit.dingdangdata.com/login  
 - 账号：admin   密码：admin123
+- 仓库：https://git.songcw.com/restaurant/front-end
 - 蓝湖：https://share.lanhuapp.com/#/invite?sid=lXre71Ra
 - 测试sit：http://cy.sit.dingdangdata.com/diningTable/diningTable-home
 - 正式：https://cy.dingdangdata.com/diningTable/diningTable-home
