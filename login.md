@@ -100,3 +100,9 @@
 
 ## BI
 - 仓库：https://git.songcw.com/front-end/mobile-office
+
+## 叮单新车务
+- 仓库：http://git.dingdangdata.com/vehicle-affairs/front-end/dingdang-vehicle-mgr.git
+- 蓝湖：https://lanhuapp.com/web/#/item/project/product?tid=9e2d6c3c-ffd9-4edb-a4b8-3a1f0148be36&pid=193fd025-782d-41ce-8a38-5e07d8dfb4f8&versionId=80bf77fc-b2a7-4727-86b6-983ee8cd2a16&docId=e60d6143-87d2-41ce-8835-7fc8dc117e84&docType=axure&pageId=bfdb11e11ebc404b8c99d238a9179ae3&image_id=e60d6143-87d2-41ce-8835-7fc8dc117e84&parentId=7b84c87a-34c4-4313-9cc1-d550f783da33
+- 测试sit：https://boss.sit.dinshifu.com/customer/mortgageeManage
+- 测试账号：dmin admin123
