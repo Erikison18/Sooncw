@@ -40,6 +40,8 @@
 - 颂车前端：http://192.168.200.170:5000/?launchApp=SYNO.SDS.Drive.Application#file_id=670652361254944144
 - 您的用户名：曹强
 - 您的密码：(vYzr}
+- 颂车产品原型：http://demo.songcw.com/data/ac9382a4-eaf7-413e-b408-bb67800064a0/%E8%B4%A2%E5%8A%A1%E6%9C%8D%E5%8A%A1%E7%B3%BB%E7%BB%9F2023/index.html#id=so8fjk&p=%E5%80%BA%E6%9D%83%E7%AE%A1%E7%90%86%E5%88%97%E8%A1%A8
+- demo songcw@2020
 
 ## 快度车联云平台
  - 地址：https://lanhuapp.com/url/ERpse
